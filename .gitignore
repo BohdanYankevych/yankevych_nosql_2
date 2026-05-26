@@ -1,0 +1,7 @@
+.venv/
+.env
+arxiv.zip
+data/arxiv-metadata-oai-snapshot.json
+__pycache__/
+*.pyc
+.DS_Store
